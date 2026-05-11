@@ -9,7 +9,7 @@ decision-making. I'm particularly interested in how quantitative modelling and
 mixed methods can translate complex climate projections into actionable financial 
 instruments and policy interventions.
 
-Starting fall 2025, I'm a PhD student in Earth Systems Science at Stanford 
+Starting fall 2026, I'm a PhD student in Earth Systems Science at Stanford 
 University, advised by Professor Gabrielle Wong-Parodi.
 
 ---
