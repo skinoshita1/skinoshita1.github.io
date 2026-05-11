@@ -3,6 +3,8 @@ layout: single
 title: "About"
 permalink: /about/
 ---
+<img src="/assets/images/bio-photo.jpg" alt="Satowa Kinoshita" 
+style="width: 200px; border-radius: 50%; display: block; margin: 0 auto 2rem auto;">
 
 I'm Satowa Kinoshita, a climate strategist and researcher based in San Francisco.
 Over the past decade I've worked at the intersection of climate change, private
