@@ -53,9 +53,5 @@ and capstone project.
 San Francisco Climate Week, Apr 2025
 - Invited panelist, *J-BRIDGE Cleantech Summit*, FedTech & JETRO, Jan 2025
 - Moderator, *Going Global: Scaling into New Markets*, Climate Week NYC, Sep 2024
-- Invited speaker, *The Potential for an Oakland Green Bank*, UC Berkeley College 
-of Environmental Design, Mar 2024
-- Oral Presentation, *Towards Synthetic Control of Carbon Dot Structures for 
-Photocatalysis*, University of Cambridge, May 2017
 - Oral Presentation, *Adapting to Climate Change: Biodiversity Management 
 Resilience in the Oil and Gas Sector*, UNEP-WCMC, Aug 2016
