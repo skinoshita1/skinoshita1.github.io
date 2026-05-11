@@ -1,7 +1,44 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+title: "Satowa Kinoshita"
+header:
+  overlay_color: "#2d4a3e"
+  overlay_filter: 0.5
+  overlay_image: /assets/images/header.jpg
+  actions:
+    - label: "About"
+      url: "/about/"
+    - label: "Work"
+      url: "/projects/"
+excerpt: "Climate strategist, researcher, and incoming Stanford PhD student working 
+on climate resilience, earth systems science, and sustainable finance."
+intro:
+  - excerpt: ""
+feature_row:
+  - image_path: /assets/images/research.jpg
+    alt: "Research"
+    title: "Research"
+    excerpt: "Climate resilience, human behavior, and decision-making under 
+    uncertainty."
+    url: "/research/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/work.jpg
+    alt: "Work"
+    title: "Industry & Advisory"
+    excerpt: "10+ years across climate finance, venture capital, and management 
+    consulting."
+    url: "/projects/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/writing.jpg
+    alt: "Writing"
+    title: "Writing"
+    excerpt: "Commentary on climate innovation, finance, and policy."
+    url: "https://satowa.substack.com"
+    btn_label: "Read on Substack"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
