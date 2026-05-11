@@ -26,13 +26,13 @@ async function loadSubstackPosts() {
   const feed = document.getElementById('substack-feed');
   try {
     const response = await fetch(
-      'https://api.rss2json.com/v1/api.json?rss_url=https://satowa.substack.com/feed&count=3'
+      'https://api.rss2json.com/v1/api.json?rss_url=https://satowa.substack.com/feed'
     );
     const data = await response.json();
     
     if (data.status !== 'ok') throw new Error('Feed failed');
     
-    const html = data.items.map(post => {
+    const html = data.items.slice(0, 3).map(post => {
       const date = new Date(post.pubDate).toLocaleDateString('en-US', {
         year: 'numeric', month: 'long', day: 'numeric'
       });
