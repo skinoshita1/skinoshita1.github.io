@@ -16,7 +16,7 @@
 title: Satowa Kinoshita
 email: satowa[at]stanford[dot]edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio of Satowa Kinoshita's work to build a climate resilient world
+  Portfolio of Satowa Kinoshita to share expertise in climate resilience, earth systems science, and sustainable finance.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Satowa Kinoshita"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Researching climate-ready infrastructure and investment at Stanford Earth Systems Science. Previously a climate tech VC, consultant, and Cambridge Chemistry MSci."
+  bio    : "Researching climate-ready infrastructure and investment at Stanford Earth Systems Science. Previously in climate tech VC, management consulting, and Chemistry MSci at the University of Cambridge."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
