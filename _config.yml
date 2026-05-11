@@ -16,7 +16,8 @@
 title: Satowa Kinoshita
 email: satowa[at]stanford[dot]edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio of Satowa Kinoshita to share expertise in climate resilience, earth systems science, and sustainable finance.
+  Portfolio of Satowa Kinoshita — climate strategist, researcher, and incoming 
+  Stanford PhD student working on climate resilience and sustainable finance.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -81,9 +82,13 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Substack"
+      icon: "fab fa-fw fa-substack"
+      url: "https://satowa.substack.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
 
 defaults:
   # _posts
