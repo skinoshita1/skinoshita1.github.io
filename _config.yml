@@ -70,9 +70,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Substack"
+      icon: "fab fa-fw fa-substack"
+      url: "https://satowa.substack.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fieldnotes_by.s/"
 
 footer:
   links:
@@ -87,7 +90,7 @@ footer:
       url: "https://satowa.substack.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fieldnotes_by.s/"
 
 
 defaults:
