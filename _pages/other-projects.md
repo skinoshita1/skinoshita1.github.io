@@ -2,6 +2,10 @@
 layout: single
 title: "Other Projects"
 permalink: /other-projects/
+header:
+  overlay_color: "#2d4a3e"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/header-other.jpeg
 ---
 
 A collection of work and interests outside my main research and professional focus.
