@@ -2,6 +2,10 @@
 layout: single
 title: "Research"
 permalink: /research/
+header:
+  overlay_color: "#2d4a3e"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/header-research.jpeg
 ---
 
 My research sits at the intersection of climate resilience, human behavior, and 
