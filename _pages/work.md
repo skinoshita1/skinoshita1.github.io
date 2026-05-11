@@ -2,6 +2,10 @@
 layout: single
 title: "Work"
 permalink: /work/
+header:
+  overlay_color: "#2d4a3e"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/header-work.jpeg
 ---
 
 I've spent 10+ years working at the intersection of climate change, private 
