@@ -64,4 +64,4 @@ loadSubstackPosts();
 ## Media
 
 I'm building this out gradually — check back for photography, creative projects, 
-and other interests here or on [Instagram](https://www.instagram.com/fieldnotes_bysatowa/).
+and other interests here or on [Instagram](https://www.instagram.com/fieldnotes_by.s/).
